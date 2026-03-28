@@ -67,8 +67,6 @@ Run the code
 ![Screenshot (306)](https://user-images.githubusercontent.com/109619458/228727737-1cbcbbee-85e3-4855-ac7b-9b07d5a5aed1.png)
 
 
-## Reach Us
-Project Link:https://github.com/StutiPradhan/ecoworld
 
 
 
