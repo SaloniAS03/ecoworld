@@ -1,9 +1,9 @@
 
-# Ecoworld
+# P-SALVAGE
 
 A mobile application on recycling using the google technologies Flutter and Firebase.
 
-The lack of efficient and cost effective waste management systems has resulted in a growing enviournment crisis in many parts of the world.While recycling programs exists in many cities, they are often inefficient and difficult to access for many citizens. Furthurmore the lack of awareness and education on the importance of recycling has lead to the ignorance of this issue.
+The lack of efficient and cost effective waste management systems has resulted in a growing enviournment crisis in many parts of the world. While recycling programs exists in many cities, they are often inefficient and difficult to access for many citizens. Furthurmore the lack of awareness and education on the importance of recycling has lead to the ignorance of this issue.
 
 To arouse the interest of people toward recycling we have made a mobile application on waste management through recycling. The objective of this project is to make recycling easily accessable and profitable to people. Our app aims to encourages citizens to recycle and also provide resources to educate people on the importance of recycling by informing them on the various recycling events and programs.
 
